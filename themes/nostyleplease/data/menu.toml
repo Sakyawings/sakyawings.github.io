@@ -2,11 +2,15 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a person."
+  title = "a person, student, pron:He/Him"
   
   [[entries.entries]]
   title = "github"
   url = "https://github.com/Sakyawings"
+
+  [[entries.entries]]
+  title = "luogu blog"
+  url = "https://www.luogu.com.cn/blog/Skywings/"
 
 #  [[entries.entries]]
 #  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
