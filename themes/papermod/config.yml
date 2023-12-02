@@ -20,7 +20,7 @@ params:
   description: "Skywings' blog"
   keywords: [Blog]
   author: Skywings
-  images: [baidu.com"]
+  images: [""]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -46,10 +46,9 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # home-info mode
   homeInfoParams:
     Title: "Skywings' Space"
-    Content: Proudly, made by Malgranda Nigra kaj Blanka.
+    Content: Proudly, made by Malgranda Nigra kaj Blanka. 唯独死亡不可避免，唯独生命不可辜负
 
   socialIcons:
     - name: github
