@@ -3,3 +3,4 @@ languageCode = 'zh-cn'
 title = 'Skywings'
 theme = 'papermod'
 hasCJKLanguage = true
+defaultContentLanguage = "zh"
