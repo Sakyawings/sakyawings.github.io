@@ -54,9 +54,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/Sakyawings/"
-    - name: luogu
-      url: "https://luogu.com.cn/blog/Skywings/"
-
 
 menu:
   main:
