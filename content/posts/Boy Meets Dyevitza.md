@@ -231,3 +231,23 @@ but yet hoping, perhaps, that it could all end this way.***
 据说，会后苏联总理和美国总统聚在一起，开始构思婴儿的名字。这种说法非常可疑。但是不管怎么说，即使他们真的这么做了，那也是在浪费时间，因为索尼娅·米哈伊洛夫娜和戈登·安德鲁斯已经处理好了这件事。他们选择的名字如今早已家喻户晓——也许，除了那些记录这段历史的人。这又回到了前面提到的新闻简报。与大多数新闻简报一样，它的诗意程度就像一只旧鞋，但它所传达的信息却光芒四射，甚至胜过莫斯科上空的那颗星星。
 
 *瑞士日内瓦，1996 年 9 月 11 日——年轻的俄美巡回大使彼得·戈登诺维奇·安德鲁斯今天上午宣布，他的和平计划已被所有大国和小国所接受，过去半个世纪以来一直威胁着人类的战争再也不会发生了。*
+
+---
+
+Title: Boy meets dyevitza
+
+Author: Robert F. Young
+
+Illustrator: Lloyd Birmingham
+
+Release date: November 28, 2023 [eBook #72248]
+
+Language: English
+
+Original publication: New York, NY: Ziff-Davis Publishing Company, 1962
+
+Credits: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team at http://www.pgdp.net
+
+--
+
+Proudly, translated from: https://www.gutenberg.org/cache/epub/26957/pg26957-images.html
