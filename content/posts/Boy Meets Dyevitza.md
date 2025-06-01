@@ -1,3 +1,9 @@
++++
+title = 'Boy Meets Dyevitza'
+date = 2025-6-02T02:16:28+08:00
+draft = false
++++
+
 ***For the incurable romantics among us, the power of love
 to conquer everything cannot be overestimated. And so let
 us read this gentle, pleasant, warm-hearted tale, knowing
